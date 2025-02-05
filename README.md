@@ -23,9 +23,11 @@ D -Delete
 
 ## Technologies Used
 
--HTML
--CSS
--JavaScript
+.HTML
+
+.CSS
+
+.JavaScript
 
 
 ## Screenshots
