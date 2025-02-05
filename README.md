@@ -21,14 +21,6 @@ D -Delete
 - Edit existing records
 - Delete records
 
-## Technologies Used
-
-.HTML
-
-.CSS
-
-.JavaScript
-
 
 ## Screenshots
 
